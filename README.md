@@ -56,6 +56,9 @@ TEAM 3.
 Step 6: Go to your browser and type localhost/CMS/index.php
 
 For ADMIN UserName = admin
+
+
+
 password= admin
 
 
